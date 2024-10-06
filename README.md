@@ -1,2 +1,2 @@
-# galore.js
+# Yakında Yeni Altyapılarla Geleceğim
 galore.js
